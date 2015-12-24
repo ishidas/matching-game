@@ -1,0 +1,14 @@
+.cardContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+/*.cardContainer ul {
+  display: inline;
+}*/
+
+.cardContainer ul {
+  margin: 0px;
+  width: 100%;
+  height: 100%;
+}
